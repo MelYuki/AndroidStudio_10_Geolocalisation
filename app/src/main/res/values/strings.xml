@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo10_Geolocalisation</string>
+    <string name="title_demo">Demo GPS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_gps">Obtenir position actuel</string>
+    <string name="coord">lon: %1$s / lat: %2$s</string>
+    <string name="no_coord">Localisation inconnue !</string>
+    <string name="btn_last_gps">Obtenir la derniere position</string>
+</resources>
